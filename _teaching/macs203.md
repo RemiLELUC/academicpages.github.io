@@ -1,7 +1,7 @@
 ---
 title: "MACS-203:Martingales and Asymptotic statistics"
 collection: teaching
-type: "Graduate course"
+type: "graduate course"
 permalink: /teaching/macs203
 venue: "Télécom Paris"
 date: 2019-01-01
