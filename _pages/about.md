@@ -15,5 +15,5 @@ I am working on adaptive algorithms for reinforcement learning and my research t
 I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay.
 
 **News**
-- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_! 
+- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_
 
