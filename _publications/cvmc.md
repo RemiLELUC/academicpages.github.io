@@ -1,5 +1,5 @@
 ---
-title: "Control Variate Selection for Monte Carlo Integration (preprint)"
+title: "Control Variate Selection for Monte Carlo Integration"
 collection: publications
 permalink: /publication/control_variate
 excerpt: "To appear in _Statistics and Computing_. With F.Portier and J.Segers.([PDF](https://arxiv.org/pdf/1906.10920))"
