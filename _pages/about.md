@@ -15,6 +15,6 @@ I am working on adaptive algorithms for reinforcement learning and my research t
 I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay.
 
 **News**
-- "Feature Clustering for Support Identification in Extreme Regions" accepted to _ICML2021_. With Hamid Jalalzai. [PDF](https://arxiv.org/abs/2008.07365)
-- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_. With François Portier and Johan Segers.[PDF](https://arxiv.org/abs/1906.10920)
+- "Feature Clustering for Support Identification in Extreme Regions" accepted to _ICML2021_. With Hamid Jalalzai. ([PDF](https://arxiv.org/abs/2008.07365))
+- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_. With François Portier and Johan Segers.([PDF](https://arxiv.org/abs/1906.10920))
 
