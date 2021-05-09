@@ -2,7 +2,7 @@
 title: "Towards Asymptotic Optimality with Conditioned Stochastic Gradient Descent (preprint)"
 collection: publications
 permalink: /publication/csgd
-excerpt: "R.Leluc, F.Portier. Arxiv version ([PDF](https://arxiv.org/pdf/2006.02745.pdf))"
+excerpt: "With F.Portier. ([PDF](https://arxiv.org/pdf/2006.02745.pdf))"
 # date: '2019-11-19'
 # authors: "R.Leluc, F.Portier"
 ---
