@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">
 I am a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), Institut Polytechnique de Paris, in the group [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conduct my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/). 
   
 I am working on adaptive algorithms for reinforcement learning and my research topics focus on probability theory, optimization and machine learning applications.
