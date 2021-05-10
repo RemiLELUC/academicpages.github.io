@@ -2,7 +2,8 @@
 title: "Control Variate Selection for Monte Carlo Integration"
 collection: publications
 permalink: /publication/control_variate
-excerpt: "To appear in _Statistics and Computing_. With F.Portier and J.Segers.([PDF](https://arxiv.org/pdf/1906.10920)),([code](https://github.com/RemiLELUC/ControlVariateSelection))"
+excerpt: "To appear in _Statistics and Computing_. With F.Portier and J.Segers.
+<a href="https://arxiv.org/pdf/1906.10920" class="btn">Paper </a> <a href="https://github.com/RemiLELUC/ControlVariateSelection" class="btn">Code </a> 
 # date: '2019-11-19'
 # authors: "R.Leluc, F.Portier, J.Segers"
 ---
