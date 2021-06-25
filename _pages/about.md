@@ -16,5 +16,5 @@ I graduated from Télécom Paris in 2019. I hold a master’s degree in applied 
 
 **News**
 - "Feature Clustering for Support Identification in Extreme Regions" accepted to _ICML2021_. With [Hamid Jalalzai](http://hamid.jalalzai.fr/). ([PDF](https://arxiv.org/abs/2008.07365))
-- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_. With [François Portier](https://sites.google.com/site/fportierwebpage/) and [Johan Segers](https://perso.uclouvain.be/johan.segers/).([PDF](https://link.springer.com/article/10.1007/s11222-021-10011-z)),[arXiv](https://arxiv.org/abs/1906.10920))
+- "Control Variate Selection for Monte Carlo Integration" accepted to _Statistics and Computing_. With [François Portier](https://sites.google.com/site/fportierwebpage/) and [Johan Segers](https://perso.uclouvain.be/johan.segers/).([PDF](https://link.springer.com/article/10.1007/s11222-021-10011-z),[arXiv](https://arxiv.org/abs/1906.10920))
 
