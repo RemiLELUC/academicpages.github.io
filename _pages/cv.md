@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* <b>Oct.2021- Apr.20202</b>: Artificial Intelligence Researcher at TotalEnergies OneTech, Saclay, France
+  * Study, design and deepend Reinforcement Learning techniques in an industrial environment (patent filing)
 * <b>April-September 2019</b>: Research intern at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
   * Monte Carlo methods and variance reduction in high dimension
   * Theoretical analysis of reinforcement learning with control variates (scientific paper)
