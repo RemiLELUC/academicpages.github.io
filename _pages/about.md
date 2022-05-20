@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center> Rémi Leluc, PhD student </center>"
+title: "<center> Rémi Leluc, 3rd year PhD candidate </center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
