@@ -5,5 +5,5 @@ collection: talks
 permalink: /talks/talkMusketeer
 
 ---
-- July 06, 2022 : Talk, Seminar SIERRA, INRIA Paris, France <a href="remileluc.github.io/blob/master/_talks/main_SIERRA_talk.pdf" target="_blank">PDF.</a>
+- July 06, 2022 : Talk, Seminar SIERRA, INRIA Paris, France <a href="https://github.com/RemiLELUC/remileluc.github.io/blob/master/_talks/main_SIERRA_talk.pdf" target="_blank">Slides.</a>
 - April 15, 2021: Talk, Seminar 2nd-year PhD candidates of EDMH doctoral school, Télécom Paris, Saclay, France
