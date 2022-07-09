@@ -8,4 +8,4 @@ permalink: /talks/talkMLSS
 # location: "Tübingen (Germany) in virtual"
 ---
 - July 22, 2021: Poster session at International Conference on Machine Learning 2021, virtual
-- July 01, 2021: Poster session for Best Student Paper competition at Extreme Value Analysis, virtual
+- July 01, 2021: Poster session for Best Student Paper competition at Extreme Value Analysis, virtual. [Slides](https://remileluc.github.io/assets/main_EVA.pdf)
