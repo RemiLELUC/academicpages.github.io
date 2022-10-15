@@ -1,8 +1,8 @@
 ---
-title: "SGD with Coordinate Sampling: Theory and Practice (preprint)"
+title: "SGD with Coordinate Sampling: Theory and Practice"
 collection: publications
 permalink: /publication/csgd
-excerpt: "With F.Portier. ([PDF](https://arxiv.org/pdf/2105.11818.pdf))"
+excerpt: "_Journal of Machine Learning Research 2022_. With F.Portier. ([PDF](https://arxiv.org/pdf/2105.11818.pdf))"
 # date: '2019-11-19'
 # authors: "R.Leluc, F.Portier"
 ---
