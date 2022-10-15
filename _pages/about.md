@@ -15,6 +15,7 @@ I am working on adaptive Monte Carlo methods and stochastic approximation with a
 I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay.
 
 **News**
+- 10.2022 : "SGD with Coordinate Sampling: Theory and Pracitce" is accepted to _Journal of Machine Learning Research 2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/).
 - 09.2022 : "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling" is accepted to _Neurips2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/), [Johan Segers](https://perso.uclouvain.be/johan.segers/) and Aigerim Zhuman. ([arXiv](https://arxiv.org/abs/2205.11890))
 -  24.07/30.07 2022: I attended the "Math for Machine Learning Summer School" ([link](https://www.emines-ingenieur.org/en/education/summer-school)) at the Mohammed VI university, Ben Guerir, Morocco, and gave a talk there.
 - 10.2021 - 04.2022: I worked as an Artificial Intelligence Researcher at TotalEnergies OneTech in the Data AI team of [Sébastien Gourvénec](https://www.linkedin.com/in/s%C3%A9bastien-gourv%C3%A9nec-448b72a/?originalSubdomain=fr) to study RL techniques in an industrial environment. _Filing of a patent_
