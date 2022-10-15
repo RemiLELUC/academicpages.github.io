@@ -2,7 +2,7 @@
 title: "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling"
 collection: publications
 permalink: /publication/aiscv
-excerpt: "Proceedings of _NeurIPS2022_. With F.Portier, J.Segers and A.Zhuman. ([arXiv](https://arxiv.org/abs/2205.11890))"
+excerpt: "_Advances in Neural Information Processing Systems 2022_. With F.Portier, J.Segers and A.Zhuman. ([arXiv](https://arxiv.org/abs/2205.11890))"
 # date: '2019-11-19'
 # authors: "R.Leluc, F.Portier, J.Segers"
 ---
