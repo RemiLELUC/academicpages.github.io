@@ -2,7 +2,7 @@
 title: "Feature Clustering for Support Identification in Extreme Regions"
 collection: publications
 permalink: /publication/mexico
-excerpt: "Proceedings of ICML2021. With H.Jalalzai.([PDF](http://proceedings.mlr.press/v139/jalalzai21a.html),[arXiv](https://arxiv.org/abs/2008.07365))"
+excerpt: "_International Conference on Machine Learning 2021_. With H.Jalalzai.([PDF](http://proceedings.mlr.press/v139/jalalzai21a.html),[arXiv](https://arxiv.org/abs/2008.07365))"
 # date: '2021-11-19'
 # authors: "R.Leluc, H.Jalalzai"
 ---
