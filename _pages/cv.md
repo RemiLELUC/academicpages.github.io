@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>2019-present</b>: PhD student at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
+* <b>2019-present</b>: PhD candidate at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
 * <b>2018-2019</b>: MSc in Mathematics,Vision and Learning, Ecole Normale Supérieure Paris-Saclay, France
 * <b>2016-2019</b>: MSc in applied mathematics, Télécom Paris, Institut Polytechnique de Paris, France
 
@@ -54,8 +54,8 @@ Skills
   * Reliability
   * Curiosity
   
-Other
+Other & Leisure
 ======
-* Sports: swimming, skiing
 * Music: piano and musical training at the conservatory (3rd cycle)
+* Workout, Chess
 * Academic support sessions in the program "Cordées de la réussite"
