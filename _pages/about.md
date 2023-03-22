@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher in the [Department of Applied Mathematics (CMAP)](https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image) at [École Polytechnique](https://www.polytechnique.edu/en) working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) on federated learning and optimization problems.
 
-I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). 
+I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). You can find the slides of the defense [here](https://remileluc.github.io/assets/slides_defense.pdf).
   
 My research topics focus on Monte Carlo methods, Stochastic Approximation and Reinforcement Learning. More generally, my research interests focus on probability theory, optimization and machine learning applications.
  
