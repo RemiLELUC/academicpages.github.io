@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* <b>2019-present</b>: PhD candidate at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
+* <b>2023-present</b>: Postdoctoral researcher at Ecole Polytechnique, Institut Polytechnique de Paris, team SIMPAS, France
+* <b>2019-2022</b>: PhD candidate at Télécom Paris, Institut Polytechnique de Paris, group S2A, IDS, France
 * <b>2018-2019</b>: MSc in Mathematics,Vision and Learning, Ecole Normale Supérieure Paris-Saclay, France
 * <b>2016-2019</b>: MSc in applied mathematics, Télécom Paris, Institut Polytechnique de Paris, France
 
