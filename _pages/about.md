@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center> Rémi Leluc, 3rd year PhD candidate </center>"
+title: "<center> Rémi Leluc, PhD </center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD candidate at [Télécom Paris](https://www.telecom-paris.fr/), Institut Polytechnique de Paris, in the group [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conduct my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). 
+I am a postdoctoral researcher in the [Department of Applied Mathematics (CMAP)](https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image) at [École Polytechnique](https://www.polytechnique.edu/en) working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) on federated learning and optimization problems.
+
+I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). 
   
-I am working on adaptive Monte Carlo methods and stochastic approximation with applications to Reinforcement Learning. My research topics focus on probability theory, optimization and machine learning applications.
+My research topics focus on Monte Carlo methods, Stochastic Approximation and Reinforcement Learning. More generally, my research interests focus on probability theory, optimization and machine learning applications.
  
 I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay.
 
 **News**
+- 03.2023 : I defended my PhD !
 - 10.2022 : "SGD with Coordinate Sampling: Theory and Practice" is accepted to _Journal of Machine Learning Research 2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/).
 - 09.2022 : "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling" is accepted to _Neurips2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/), [Johan Segers](https://perso.uclouvain.be/johan.segers/) and Aigerim Zhuman. ([arXiv](https://arxiv.org/abs/2205.11890))
 -  24.07/30.07 2022: I attended the "Math for Machine Learning Summer School" ([link](https://www.emines-ingenieur.org/en/education/summer-school)) at the Mohammed VI university, Ben Guerir, Morocco, and gave a talk there.
