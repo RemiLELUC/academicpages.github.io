@@ -9,23 +9,20 @@ redirect_from:
 ---
 
 
-<div align="justify">
   
 I am a postdoctoral researcher in the [Department of Applied Mathematics (CMAP)](https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image) at [École Polytechnique](https://www.polytechnique.edu/en) working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) on federated learning and optimization problems.
 
 I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). You can find the slides of the defense [here](https://remileluc.github.io/assets/slides_defense.pdf).
-  
-</div>
 
 My research topics focus on:
 - Monte Carlo methods
 - Stochastic Approximation
 - Reinforcement Learning
-<div align="justify">
+
 More generally, my research interests focus on probability theory, optimization and machine learning applications.
  
 I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay.
-</div>
+
 
 **News**
 - 03.2023 : I defended my PhD ! [Slides](https://remileluc.github.io/assets/slides_defense.pdf)
