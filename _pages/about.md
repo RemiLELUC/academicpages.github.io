@@ -21,7 +21,7 @@ My research topics focus on:
 
 More generally, my research interests focus on probability theory, optimization and machine learning applications.
  
-I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay. For more details, please see my [resume](https://remileluc.github.io/assets/resume.pdf)
+I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay. For more details, please see my [resume](https://remileluc.github.io/assets/resume.pdf).
 
 
 **News**
