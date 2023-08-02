@@ -8,12 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+
+**About me**
+
 I am a postdoctoral researcher in the [Department of Applied Mathematics (CMAP)](https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image) at [École Polytechnique](https://www.polytechnique.edu/en) working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) on federated learning and optimization problems.
 
-My research topics focus on: Monte Carlo methods, Stochastic Approximation, Optimization and Reinforcement Learning. More generally, my research interests focus on probability theory, optimization and applications of machine learning to real-world problems. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
+I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). You can find the manuscript on [theses.fr](https://www.theses.fr/2023IPPAT007) and the slides of the defense [here](https://remileluc.github.io/assets/slides_defense.pdf). Before that, I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay. 
 
-I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). You can find the manuscript on [theses.fr](https://www.theses.fr/2023IPPAT007) with the PDF [here](https://theses.hal.science/tel-04059775v1/document) and the slides of the defense [here](https://remileluc.github.io/assets/slides_defense.pdf). Before that, I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay. For more details, please see my [resume](https://remileluc.github.io/assets/resume.pdf).
+For more details, please see my [CV](https://remileluc.github.io/assets/resume.pdf).
 
+**My Research**
+
+My research topics/interests focus on: 
+- Monte Carlo methods
+- Stochastic Optimization
+- Reinforcement Learning
+- Federated Learning
+
+More generally, I am interested in applications of machine learning to real-world problems such as building intelligent systems that enable collaborative learning. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
 
 **News**
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
