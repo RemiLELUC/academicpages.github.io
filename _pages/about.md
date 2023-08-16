@@ -28,6 +28,7 @@ My research topics/interests focus on:
 More generally, I am interested in applications of machine learning to real-world problems such as building intelligent systems that enable collaborative learning. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
 
 **News**
+- 08.2023 : "Asymptotic Analysis of Conditioned Stochastic Gradient Descent" is accepted to _Transactions on Machine Learning Research 2023_. With [François Portier](https://sites.google.com/site/fportierwebpage/). ([PDF](https://openreview.net/pdf?id=U4XgzRjfF1))
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
 - 03.2023 : I defended my PhD ! [Slides](https://remileluc.github.io/assets/slides_defense.pdf)
 - 10.2022 : "SGD with Coordinate Sampling: Theory and Practice" is accepted to _Journal of Machine Learning Research 2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/). ([PDF](https://www.jmlr.org/papers/volume23/21-1240/21-1240.pdf))
