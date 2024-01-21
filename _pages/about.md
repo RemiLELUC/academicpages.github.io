@@ -28,9 +28,12 @@ My research topics/interests focus on:
 More generally, I am interested in applications of machine learning to real-world problems such as building intelligent systems that enable collaborative learning. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
 
 **News**
+- 01.2024 : "Compression with Exact Error Distribution for Federated Learning" is accepted to _AISTATS2024_. Congrats to M. Hegazy, C.T. Li and A. Dieuleveut!
 - 08.2023 : "Asymptotic Analysis of Conditioned Stochastic Gradient Descent" is accepted to _Transactions on Machine Learning Research 2023_. With [François Portier](https://sites.google.com/site/fportierwebpage/). ([PDF](https://openreview.net/pdf?id=U4XgzRjfF1))
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
 - 03.2023 : I defended my PhD ! [Slides](https://remileluc.github.io/assets/slides_defense.pdf)
+
+**Archive**
 - 10.2022 : "SGD with Coordinate Sampling: Theory and Practice" is accepted to _Journal of Machine Learning Research 2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/). ([PDF](https://www.jmlr.org/papers/volume23/21-1240/21-1240.pdf))
 - 09.2022 : "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling" is accepted to _Neurips2022_. With [François Portier](https://sites.google.com/site/fportierwebpage/), [Johan Segers](https://perso.uclouvain.be/johan.segers/) and Aigerim Zhuman. ([PDF](https://papers.nips.cc/paper_files/paper/2022/file/4d4e8614a37f0aff841ba87ed1a898c1-Paper-Conference.pdf))
 -  24.07/30.07 2022: I attended the "Math for Machine Learning Summer School" ([link](https://www.emines-ingenieur.org/en/education/summer-school)) at the Mohammed VI university, Ben Guerir, Morocco, and gave a talk there.
