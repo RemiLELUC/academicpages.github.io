@@ -28,6 +28,7 @@ My research topics/interests focus on:
 More generally, I am interested in applications of machine learning to real-world problems such as building intelligent systems that enable collaborative learning. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
 
 **News**
+- 04.2024 : "Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence" is accepted to _Bernoulli_. Congrats to F. Portier, J. Segers and A. Zhuman!
 - 01.2024 : "Compression with Exact Error Distribution for Federated Learning" is accepted to _AISTATS2024_. Congrats to M. Hegazy, C.T. Li and A. Dieuleveut!
 - 08.2023 : "Asymptotic Analysis of Conditioned Stochastic Gradient Descent" is accepted to _Transactions on Machine Learning Research 2023_. With [François Portier](https://sites.google.com/site/fportierwebpage/). ([PDF](https://openreview.net/pdf?id=U4XgzRjfF1))
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
