@@ -30,6 +30,7 @@ More generally, I am interested in applications of machine learning to real-worl
 **News**
 - 05.2024 : "Sliced-Wasserstein Estimation with Spherical Harmonics as Control Variates" is accepted to **ICML2024**. Congrats to A. Dieuleveut, F. Portier, J. Segers and A. Zhuman!
 - 04.2024 : "Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence" is accepted to **Bernoulli**. With F. Portier, J. Segers and A. Zhuman.
+- 04.2024: I attended the "25th Anniversary of Eurandom" ([link](https://www.eurandom.tue.nl/event/eurandom-25-years-april-2024/)) in Eindhoven (Netherlands), and gave a talk there on ["Monte Carlo Methods in Machine Learning"](https://remileluc.github.io/assets/main_eurandom.pdf).
 - 01.2024 : "Compression with Exact Error Distribution for Federated Learning" is accepted to **AISTATS2024**. With M. Hegazy, C.T. Li and A. Dieuleveut.
 - 08.2023 : "Asymptotic Analysis of Conditioned Stochastic Gradient Descent" is accepted to **Transactions on Machine Learning Research 2023**. With François Portier.
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
