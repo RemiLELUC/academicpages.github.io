@@ -32,11 +32,12 @@ More generally, I am interested in applications of machine learning to real-worl
 - 04.2024 : "Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence" is accepted to **Bernoulli**. With F. Portier, J. Segers and A. Zhuman.
 - 04.2024: I attended the "25th Anniversary of Eurandom" ([link](https://www.eurandom.tue.nl/event/eurandom-25-years-april-2024/)) in Eindhoven (Netherlands), and gave a talk there on ["Monte Carlo Methods in Machine Learning"](https://remileluc.github.io/assets/main_eurandom.pdf).
 - 01.2024 : "Compression with Exact Error Distribution for Federated Learning" is accepted to **AISTATS2024**. With M. Hegazy, C.T. Li and A. Dieuleveut.
+
+**Archive**
+
 - 08.2023 : "Asymptotic Analysis of Conditioned Stochastic Gradient Descent" is accepted to **Transactions on Machine Learning Research 2023**. With François Portier.
 - 04.2023 : I started a postdoc at Ecole Polytechnique with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
 - 03.2023 : I defended my PhD ! [Slides](https://remileluc.github.io/assets/slides_defense.pdf)
-
-**Archive**
 - 10.2022 : "SGD with Coordinate Sampling: Theory and Practice" is accepted to **Journal of Machine Learning Research 2022**. With François Portier.
 - 09.2022 : "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling" is accepted to **Neurips2022**. With François Portier, Johan Segers and Aigerim Zhuman.
 -  24.07/30.07 2022: I attended the "Math for Machine Learning Summer School" ([link](https://www.emines-ingenieur.org/en/education/summer-school)) at the Mohammed VI university, Ben Guerir, Morocco, and gave a talk there.
