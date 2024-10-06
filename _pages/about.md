@@ -10,14 +10,14 @@ redirect_from:
 
 **About me**
  
-<div class="justify-text">
+<p align="justify">
 I am a Quantitative Researcher at <a href="https://www.qube-rt.com/">Qube Research and Technologies (QRT)</a> working on quantitative strategies for portfolio optimization. Prior to that, I was a postdoctoral researcher in the <a href="https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image"> Department of Applied Mathematics (CMAP) </a> at <a href="https://www.polytechnique.edu/en">École Polytechnique</a> working with <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> on Federated Learning and (stochastic) optimization problems. I obtained my PhD in Applied Mathematics and Computer Science from <a href="https://www.ip-paris.fr/en/search?s=en%20home%20en">Institut Polytechnique de Paris</a> at <a href="https://www.telecom-paris.fr/">Télécom Paris</a> in the team <a href="http://www.tsi.telecom-paristech.fr/ssa/">S2A</a> (Signal, Statistics and Learning) of LTCI. 
-</div>
+</p>
 
 
-<div class="justify-text">
+<p align="justify">
 I conducted my PhD under the supervision of <a href="https://sites.google.com/site/fportierwebpage/">François Portier</a> and <a href="https://bianchi.wp.imt.fr/">Pascal Bianchi</a>. You can find the manuscript on <a href="https://www.theses.fr/2023IPPAT007">theses.fr</a> and the slides of the defense <a href="https://remileluc.github.io/assets/slides_defense.pdf">here</a>. Before that, I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning <a href="https://www.master-mva.com/">(MVA)</a> from Ecole Normale Supérieure Paris-Saclay. 
-</div>
+</p>
 
 For more details, please see my [CV](https://remileluc.github.io/assets/resume.pdf).
 
