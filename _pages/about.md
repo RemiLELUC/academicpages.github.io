@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
 **About me**
-
-I am a Quantitative Researcher at [Qube Research and Technologies (QRT)](https://www.qube-rt.com/) working on quantitative strategies for portfolio optimization. Prior to that, I was a postdoctoral researcher in the [Department of Applied Mathematics (CMAP)](https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image) at [École Polytechnique](https://www.polytechnique.edu/en) working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) on Federated Learning and (stochastic) optimization problems. I obtained my PhD in Applied Mathematics and Computer Science from [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/search?s=en%20home%20en) at [Télécom Paris](https://www.telecom-paris.fr/) in the team [S2A](http://www.tsi.telecom-paristech.fr/ssa/) (Signal, Statistics and Learning) of LTCI. 
+ <a href=""> </a>
+<p class="justify-text">
+I am a Quantitative Researcher at <a href="https://www.qube-rt.com/">Qube Research and Technologies (QRT)</a> working on quantitative strategies for portfolio optimization. Prior to that, I was a postdoctoral researcher in the <a href="https://portail.polytechnique.edu/cmap/en/groups/statistique-apprentissage-simulation-image"> Department of Applied Mathematics (CMAP) </a> at <a href="https://www.polytechnique.edu/en">École Polytechnique</a> working with <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> on Federated Learning and (stochastic) optimization problems. I obtained my PhD in Applied Mathematics and Computer Science from <a href="https://www.ip-paris.fr/en/search?s=en%20home%20en">Institut Polytechnique de Paris</a> at <a href="https://www.telecom-paris.fr/">Télécom Paris</a> in the team <a href="http://www.tsi.telecom-paristech.fr/ssa/">S2A</a>[S2A] (Signal, Statistics and Learning) of LTCI. 
+</p>
 
 I conducted my PhD under the supervision of [François Portier](https://sites.google.com/site/fportierwebpage/) and [Pascal Bianchi](https://bianchi.wp.imt.fr/). You can find the manuscript on [theses.fr](https://www.theses.fr/2023IPPAT007) and the slides of the defense [here](https://remileluc.github.io/assets/slides_defense.pdf). Before that, I graduated from Télécom Paris in 2019. I hold a master’s degree in applied mathematics from Télécom Paris and a master’s degree in Mathematics, Vision and Learning ([MVA](https://www.master-mva.com/)) from Ecole Normale Supérieure Paris-Saclay. 
 
